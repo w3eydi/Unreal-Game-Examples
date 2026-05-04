@@ -1,4 +1,4 @@
-# ConsoleInventorySystem
+# InventorySystem
 
 ## Purpose
 A simple C++23 example demonstrating a basic console-based inventory system.
